@@ -1,0 +1,11 @@
+Are are assuming you are using VsCode. 
+
+On Linux:
+=========
+Make sure you have compilers install. 
+sudo apt install build-essential
+gcc --version
+
+
+On Windows:
+===========
