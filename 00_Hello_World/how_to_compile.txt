@@ -10,7 +10,10 @@ You can compile manually and run by:
 gcc HelloWorld.c
 ./HelloWorld
 
-Or you can use the built-in GDB in the VsCode. More information is being prepared. 
+Or you can use the built-in GDB in the VsCode.
+Install "C/C++ Compile Run" by danielpinto8zz6
+
+Once installed you should see a play button appear on top of your code. 
 
 
 On Windows:
