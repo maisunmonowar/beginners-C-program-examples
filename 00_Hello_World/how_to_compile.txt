@@ -6,6 +6,12 @@ Make sure you have compilers install.
 sudo apt install build-essential
 gcc --version
 
+You can compile manually and run by:
+gcc HelloWorld.c
+./HelloWorld
+
+Or you can use the built-in GDB in the VsCode. More information is being prepared. 
+
 
 On Windows:
 ===========
