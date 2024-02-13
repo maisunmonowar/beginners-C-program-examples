@@ -1,3 +1,8 @@
+Note:
+I forked the repo from Gourav.
+But made modification on it so that I can use to teach someone step by step. 
+So everything has changed. Ping me if you have questions. 
+
 
 [Visit my website to know more about me : gouravthakur.com](https://gouravthakur.com)
 # Beginners C Program Examples
